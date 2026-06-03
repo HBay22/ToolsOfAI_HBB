@@ -1,8 +1,9 @@
-# Ignore all files
-*
-
-# But do not ignore .ipynb files
-!.ipynb
-
-# Also, do not ignore the .gitignore file itself
-!.gitignore
+cifar-10-batches-py/
+data/
+HBB_AI_tools_CIFAR_10.ipynb
+HBCNN_cp.py
+main.py
+plots_dataAug_cifar_mean_std_30epoch_160batch.pdf
+pyproject.toml
+README.md
+uv.lock
