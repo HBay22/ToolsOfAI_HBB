@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# But do not ignore .ipynb files
+!.ipynb
+
+# Also, do not ignore the .gitignore file itself
+!.gitignore
